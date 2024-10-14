@@ -723,7 +723,7 @@ body.has-transitions .pages .page.activePage {
 
 #item1019.fixed-pos-elem {
 	width:390px !important;
-	height:113px !important;
+	height:140px !important;
 	top:auto !important;
 	bottom:0px !important;
 	left:50% !important;
@@ -747,7 +747,7 @@ body.has-transitions .pages .page.activePage {
 	height:72px !important;
 	left:92px !important;
 	top:auto !important;
-	bottom:25px !important;
+	bottom:37px !important;
 }
 
 #item1234 {
@@ -777,7 +777,7 @@ body.has-transitions .pages .page.activePage {
 	height:72px !important;
 	left:16px !important;
 	top:auto !important;
-	bottom:25px !important;
+	bottom:37px !important;
 }
 
 #item1295 {
@@ -807,7 +807,7 @@ body.has-transitions .pages .page.activePage {
 	height:77px !important;
 	left:50% !important;
 	top:auto !important;
-	bottom:19px !important;
+	bottom:31px !important;
 }
 
 #item1325 {
@@ -839,7 +839,7 @@ body.has-transitions .pages .page.activePage {
 	height:77px !important;
 	left:auto !important;
 	top:auto !important;
-	bottom:19px !important;
+	bottom:31px !important;
 	right:92px !important;
 }
 
@@ -870,7 +870,7 @@ body.has-transitions .pages .page.activePage {
 	height:72px !important;
 	left:auto !important;
 	top:auto !important;
-	bottom:25px !important;
+	bottom:37px !important;
 	right:16px !important;
 }
 #in5footer,  #prefooter {display:none;}
