@@ -623,6 +623,13 @@ body.has-transitions .pages .page.activePage {
 	top:20px !important;
 }
 
+#item1394.fixed-pos-elem {
+	width:100% !important;
+	height:140px !important;
+	top:auto !important;
+	bottom:0px !important;
+}
+
 #item698 {
 	width:358px !important;
 	left:16px !important;
@@ -719,13 +726,6 @@ body.has-transitions .pages .page.activePage {
 	height:67px !important;
 	left:16px !important;
 	top:821px !important;
-}
-
-#item1019.fixed-pos-elem {
-	width:100% !important;
-	height:140px !important;
-	top:auto !important;
-	bottom:0px !important;
 }
 
 #item1021 {
