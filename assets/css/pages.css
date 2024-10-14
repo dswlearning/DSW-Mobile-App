@@ -731,10 +731,11 @@ body.has-transitions .pages .page.activePage {
 #item1019.fixed-pos-elem {
 	width:390px !important;
 	height:97px !important;
-	top:50% !important;
+	top:auto !important;
+	bottom:0px !important;
 	left:50% !important;
-	-webkit-transform-origin:50% 50% 0;
-	transform-origin:50% 50% 0;
+	-webkit-transform-origin:50% 100% 0;
+	transform-origin:50% 100% 0;
 }
 
 #item1021.fixed-pos-elem {
