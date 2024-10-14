@@ -439,8 +439,8 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 
 /*CSS Generated from InDesign Styles*/
 
-body, #container-wrap { background:#253885; }
-:-webkit-full-screen { background:#253885; }
+body, #container-wrap { background:#f3f3f3; }
+:-webkit-full-screen { background:#f3f3f3; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:375px; height:812px; background: #fff !important; }
 .paper-vertical { width:375px; height:100%; }
@@ -471,28 +471,28 @@ body, #container-wrap { background:#253885; }
 #item452 {
 	width:256px !important;
 	left:94px !important;
-	top:374px !important;
+	top:368px !important;
 	min-height:49px !important;
 }
 
 #item487 {
 	width:256px !important;
 	left:94px !important;
-	top:473px !important;
+	top:467px !important;
 	min-height:49px !important;
 }
 
 #item513 {
 	width:256px !important;
 	left:94px !important;
-	top:575px !important;
+	top:569px !important;
 	min-height:34px !important;
 }
 
 #item539 {
 	width:256px !important;
 	left:94px !important;
-	top:675px !important;
+	top:669px !important;
 	min-height:34px !important;
 }
 #in5footer,  #prefooter {display:none;}

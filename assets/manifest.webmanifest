@@ -1,1 +1,1 @@
-{ 	"name": "Mobile App", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#253885", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "300x300", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
+{ 	"name": "Mobile App", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#f3f3f3", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "300x300", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
