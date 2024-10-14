@@ -722,11 +722,10 @@ body.has-transitions .pages .page.activePage {
 }
 
 #item1019.fixed-pos-elem {
-	width:100% !important;
+	width:390px !important;
 	height:113px !important;
 	top:auto !important;
 	bottom:0px !important;
-	left:50% !important;
 }
 
 #item1021 {
