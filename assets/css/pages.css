@@ -722,77 +722,62 @@ body.has-transitions .pages .page.activePage {
 }
 
 #item1019.fixed-pos-elem {
-	width:390px !important;
+	width:100% !important;
 	height:97px !important;
 	top:auto !important;
 	bottom:0px !important;
 	left:50% !important;
 }
 
-#item1021.fixed-pos-elem {
-	width:42.0960591133004px !important;
-	top:auto !important;
+#item1021 {
+	width:42px !important;
+	top:52px !important;
 	min-height:9px !important;
-	bottom:952px !important;
-	height:18px !important;
 }
 
-#item1121.fixed-pos-elem {
+#item1121 {
 	width:42px !important;
 	height:42px !important;
-	top:auto !important;
-	bottom:971px !important;
 }
 
 #item1178.fixed-pos-elem {
-	width:16px !important;
+	width:42px !important;
 	height:61px !important;
 	left:16px !important;
 	top:auto !important;
 	bottom:18px !important;
 }
 
-#item1046.fixed-pos-elem {
+#item1046 {
 	width:76px !important;
-	top:auto !important;
+	top:52px !important;
 	min-height:9px !important;
-	bottom:952px !important;
-	height:18px !important;
 }
 
-#item1124.fixed-pos-elem {
+#item1124 {
 	width:42px !important;
 	height:42px !important;
 	left:17px !important;
-	top:auto !important;
-	bottom:971px !important;
 }
 
 #item1179.fixed-pos-elem {
-	width:91px !important;
+	width:76px !important;
 	height:61px !important;
 	left:91px !important;
 	top:auto !important;
 	bottom:18px !important;
 }
 
-#item1071.fixed-pos-elem {
+#item1071 {
 	width:99px !important;
-	top:auto !important;
+	top:52px !important;
 	min-height:9px !important;
-	bottom:952px !important;
-	height:18px !important;
-	left:auto !important;
-	right:291px !important;
 }
 
-#item1127.fixed-pos-elem {
+#item1127 {
 	width:42px !important;
 	height:42px !important;
-	left:auto !important;
-	top:auto !important;
-	bottom:971px !important;
-	right:317px !important;
+	left:31px !important;
 }
 
 #item1180.fixed-pos-elem {
@@ -804,23 +789,15 @@ body.has-transitions .pages .page.activePage {
 	right:93px !important;
 }
 
-#item1096.fixed-pos-elem {
-	width:41.0994873046875px !important;
-	top:auto !important;
+#item1096 {
+	width:41px !important;
+	top:52px !important;
 	min-height:9px !important;
-	bottom:952px !important;
-	height:18px !important;
-	left:auto !important;
-	right:349px !important;
 }
 
-#item1130.fixed-pos-elem {
+#item1130 {
 	width:42px !important;
 	height:42px !important;
-	top:auto !important;
-	bottom:971px !important;
-	left:auto !important;
-	right:348px !important;
 }
 
 #item1181.fixed-pos-elem {
