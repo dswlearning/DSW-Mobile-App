@@ -722,13 +722,10 @@ body.has-transitions .pages .page.activePage {
 }
 
 #item1019.fixed-pos-elem {
-	width:390px !important;
+	width:100% !important;
 	height:140px !important;
 	top:auto !important;
 	bottom:0px !important;
-	left:50% !important;
-	-webkit-transform-origin:50% 100% 0;
-	transform-origin:50% 100% 0;
 }
 
 #item1021 {
@@ -742,12 +739,10 @@ body.has-transitions .pages .page.activePage {
 	height:43px !important;
 }
 
-#item1229.fixed-pos-elem {
+#item1229 {
 	width:43px !important;
 	height:72px !important;
-	left:92px !important;
-	top:auto !important;
-	bottom:37px !important;
+	left:76px !important;
 }
 
 #item1234 {
@@ -772,12 +767,9 @@ body.has-transitions .pages .page.activePage {
 	height:43px !important;
 }
 
-#item1228.fixed-pos-elem {
-	width:16px !important;
+#item1228 {
+	width:43px !important;
 	height:72px !important;
-	left:16px !important;
-	top:auto !important;
-	bottom:37px !important;
 }
 
 #item1295 {
@@ -802,12 +794,10 @@ body.has-transitions .pages .page.activePage {
 	height:43px !important;
 }
 
-#item1230.fixed-pos-elem {
+#item1230 {
 	width:43px !important;
 	height:77px !important;
-	left:50% !important;
-	top:auto !important;
-	bottom:31px !important;
+	left:152px !important;
 }
 
 #item1325 {
@@ -834,13 +824,10 @@ body.has-transitions .pages .page.activePage {
 	left:8px !important;
 }
 
-#item1231.fixed-pos-elem {
+#item1231 {
 	width:55px !important;
 	height:77px !important;
-	left:auto !important;
-	top:auto !important;
-	bottom:31px !important;
-	right:92px !important;
+	left:228px !important;
 }
 
 #item1361 {
@@ -865,13 +852,18 @@ body.has-transitions .pages .page.activePage {
 	height:43px !important;
 }
 
-#item1232.fixed-pos-elem {
+#item1232 {
 	width:43px !important;
 	height:72px !important;
-	left:auto !important;
+	left:315px !important;
+}
+
+#item1393.fixed-pos-elem {
+	width:358px !important;
+	height:77px !important;
+	left:50% !important;
 	top:auto !important;
-	bottom:37px !important;
-	right:16px !important;
+	bottom:31px !important;
 }
 #in5footer,  #prefooter {display:none;}
 
