@@ -782,7 +782,7 @@ body, #container-wrap { background:#f3f3f3; }
 #item1402.fixed-pos-elem {
 	top:auto !important;
 	width:100% !important;
-	height:140px !important;
+	height:132px !important;
 	bottom:0px !important;
 	background:#ffffff;
 	left:50% !important;
@@ -792,7 +792,7 @@ body, #container-wrap { background:#f3f3f3; }
 	background-position:left bottom;
 	top:auto !important;
 	width:100% !important;
-	height:140px !important;
+	height:132px !important;
 	bottom:0px !important;
 }
 
@@ -1501,13 +1501,13 @@ body, #container-wrap { background:#f3f3f3; }
 	height:93px !important;
 	left:50% !important;
 	top:auto !important;
-	bottom:36px !important;
+	bottom:34px !important;
 }
 
 #item5138 {
 	background-position:center;
 	left:4.1% !important;
-	top:86.99% !important;
+	top:87.11% !important;
 	width:358px !important;
 	height:77px !important;
 }
@@ -1846,7 +1846,7 @@ p.autoParaStyle7 {
 	font-family:Arial,sans-serif;
 	font-size:12px;
 	line-height:14.4px;
-	color:#010102;
+	color:#000;
 	text-align:center;
 }
 
@@ -1854,7 +1854,7 @@ p.autoParaStyle6 {
 	font-family:Arial,sans-serif;
 	font-size:12px;
 	line-height:14.4px;
-	color:#000;
+	color:#010102;
 	text-align:center;
 }
 
