@@ -1540,20 +1540,20 @@ body, #container-wrap { background:#f3f3f3; }
 
 #item2776 {
 	width:100% !important;
-	height:49.21% !important;
+	height:49.83% !important;
 	background:#ffffff;
 }
 
 #item2776 {
 	background-position:left bottom;
 	width:100% !important;
-	height:49.21% !important;
+	height:49.83% !important;
 }
 
 #item860 {
 	top:533px !important;
 	width:100% !important;
-	height:50.78% !important;
+	height:50.2% !important;
 	background:#253885;
 }
 
@@ -1561,7 +1561,7 @@ body, #container-wrap { background:#f3f3f3; }
 	background-position:left bottom;
 	top:533px !important;
 	width:100% !important;
-	height:50.78% !important;
+	height:50.2% !important;
 }
 
 #item2279 {
@@ -1834,12 +1834,20 @@ body, #container-wrap { background:#f3f3f3; }
 	height:67px !important;
 }
 
-p.autoParaStyle11 {
+p.autoParaStyle12 {
 	font-family:Verdana,sans-serif;
 	font-size:22px;
 	line-height:26.4px;
 	color:#010102;
 	text-transform:uppercase;
+	text-align:left;
+}
+
+p.autoParaStyle11 {
+	font-family:Arial,sans-serif;
+	font-size:12px;
+	line-height:14.4px;
+	color:#010102;
 	text-align:left;
 }
 
