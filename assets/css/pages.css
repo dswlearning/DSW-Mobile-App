@@ -565,7 +565,7 @@ body, #container-wrap { background:#f3f3f3; }
 
 #item2780 {
 	left:94px !important;
-	top:363px !important;
+	top:362px !important;
 	width:67.69% !important;
 	min-height:14px !important;
 }
@@ -573,14 +573,14 @@ body, #container-wrap { background:#f3f3f3; }
 #item2780 {
 	background-position:left top;
 	left:94px !important;
-	top:363px !important;
+	top:362px !important;
 	width:67.69% !important;
 	height:14px !important;
 }
 
 #item2805 {
 	left:94px !important;
-	top:389px !important;
+	top:388px !important;
 	width:63.59% !important;
 	min-height:23px !important;
 }
@@ -588,7 +588,7 @@ body, #container-wrap { background:#f3f3f3; }
 #item2805 {
 	background-position:left top;
 	left:94px !important;
-	top:389px !important;
+	top:388px !important;
 	width:63.59% !important;
 	height:23px !important;
 }
@@ -1510,6 +1510,32 @@ body, #container-wrap { background:#f3f3f3; }
 	top:87.11% !important;
 	width:358px !important;
 	height:77px !important;
+}
+
+#item6500 {
+	width:100% !important;
+	height:99.88% !important;
+	border-radius:12px;
+}
+
+#item6500 {
+	width:100% !important;
+	height:99.88% !important;
+}
+
+#item6502 {
+	left:4.1% !important;
+	top:38.89% !important;
+	width:358px !important;
+	height:82px !important;
+}
+
+#item6502 {
+	background-position:center;
+	left:4.1% !important;
+	top:38.89% !important;
+	width:358px !important;
+	height:82px !important;
 }
 
 #item2776 {
